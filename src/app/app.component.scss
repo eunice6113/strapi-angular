@@ -1,0 +1,15 @@
+body, h1,h2,h3,h4,h5,h6,span,small,label, p, div, a, button, input, textarea { font-family: 'NanumSquare', sans-serif; }
+
+.mt10 {margin-top: 10px;}
+.mt30 {margin-top: 30px;}
+.mb10 {margin-bottom: 10px;}
+.mb50 {margin-bottom: 50px;}
+
+ul li {margin-bottom: 20px;}
+ul li p {margin-bottom: 5px;}
+ul li p:last-child {margin-bottom: 15px;}
+ul li {border-bottom: 1px solid #eaeaea;}
+
+label {margin-right: 20px;}
+
+button {width: 150px;height: 40px;background-color: #1c49b7;color:#fff;border: 0 none;}
